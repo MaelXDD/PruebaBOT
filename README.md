@@ -55,3 +55,5 @@ Herramientas01/
 **Reglas de protección de ramas:**
 - `main` y `develop` requieren Pull Request + 2 aprobaciones + resolución de conversaciones antes de mergear
 - Las ramas `feature/*` no requieren PR, para agilizar el trabajo individual antes de integrar a `develop`
+
+holaaaaaaaa
